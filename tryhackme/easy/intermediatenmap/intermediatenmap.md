@@ -5,6 +5,7 @@
 ## Target IP (This IP will be different on your machine)
 
 ┌──(edward㉿repoman)-[~]
+
 └─$ export target="10.10.12.222"
 
 ## Scan for open ports
