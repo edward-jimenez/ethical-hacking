@@ -71,7 +71,7 @@ index dfe24c9..44f3cb3 100644
 +
 ```
 
-I did this for each commit, but didn't find anything interesting so I asked my frienemy, google, who pointed to this link [Common Git Mistakes](https://www.edureka.co/blog/common-git-mistakes/).  Two commands that can assist us in getting more information are: `git reflog` and `git reset --hard <commit-id>.
+I did this for each commit, but didn't find anything interesting so I asked my frienemy, google, who pointed to this link [Common Git Mistakes](https://www.edureka.co/blog/common-git-mistakes/).  Two commands that can assist us in getting more information are: `git reflog` and `git reset --hard <commit-id>`.
 
 ### git reflog output
 
