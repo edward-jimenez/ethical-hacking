@@ -172,10 +172,3 @@ C:\Users\Administrator\Desktop>type flag.txt
 type flag.txt
 <REDACTED>
 ```
-
-
-Move the payload to `C:\Program Files\Development Files`
-
-
-
-
