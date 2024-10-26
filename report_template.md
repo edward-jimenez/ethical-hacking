@@ -18,6 +18,7 @@ nmap options explained:
 `sudo nmap -Pn -p- -sS -T4 ${target}`  
 
 ## Enumerate open ports
+`export ports="<open ports - comma separated>"`
 
 nmap options explained:  
 
@@ -27,4 +28,4 @@ nmap options explained:
 - -sV: Display service **V**ersion  
 - -oA: Save scan results in **A**ll formats(nmap, xml, greppable)  
 
-`nmap -Pn -p22,80 -sC -sV ${target} -oA ${target}`
+`nmap -Pn -p${ports} -sC -sV ${target} -oA ${target}`
